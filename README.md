@@ -62,7 +62,7 @@ Per-board touch values vary, so you may need to adjust these in
 
 A good way to calibrate is to watch the raw `touchRead()` value in the Serial
 Monitor when touching/not touching the pad, then pick a threshold between the two.
-> A very big shout-out to my friend kubo for helping me prepare this on a short notice
+> A very big shout-out to my friend [kubo](https://github.com/Sanjeevjoshi17) for helping me prepare this on a short notice
 
 ## License
 
