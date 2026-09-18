@@ -1,0 +1,24 @@
+# Arduino IDE
+*.build/
+build/
+.arduino/
+*.elf
+*.bin
+*.partitions.bin
+*.lss
+*.map
+*.hex
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# PlatformIO (if used later)
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Secrets / local config
+*.env
